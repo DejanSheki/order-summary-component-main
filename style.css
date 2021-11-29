@@ -64,7 +64,7 @@ article p {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 0rem 1.2rem;
+  padding: 1.2rem;
   background: var(--very-pale-blue);
   border-radius: 20px;
   margin-block: 1.6rem;
@@ -89,6 +89,7 @@ article p {
   color: var(--bright-blue);
   cursor: pointer;
   text-decoration: underline;
+  margin-block: 0;
 }
 .order a:hover {
   text-decoration: none;
