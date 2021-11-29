@@ -58,12 +58,13 @@ article h1 {
 }
 article p {
   color: var(--desaturated-blue);
+  line-height: 1.5;
 }
 .order {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 1.2rem;
+  padding: 0rem 1.2rem;
   background: var(--very-pale-blue);
   border-radius: 20px;
   margin-block: 1.6rem;
