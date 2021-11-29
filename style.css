@@ -41,7 +41,7 @@ main {
   border-radius: 20px;
   box-shadow: 1px 7px 10px rgb(189, 198, 224);
 }
-section img {
+.hero img {
   width: 100%;
   border-radius: 20px 20px 0 0;
 }
@@ -63,7 +63,7 @@ article p {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 1.5rem 1.2rem;
+  padding: 1.2rem;
   background: var(--very-pale-blue);
   border-radius: 20px;
   margin-block: 1.6rem;
@@ -78,7 +78,7 @@ article p {
   flex-direction: column;
   justify-content: space-between;
 }
-.plan h3 {
+.plan h2 {
   color: var(--dark-blue);
   font-size: 1rem;
 }
