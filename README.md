@@ -28,5 +28,5 @@ Users should be able to:
 ## Author
 
 - Website - https://dejanlukic.com
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - https://www.frontendmentor.io/profile/DejanSheki
+- Twitter - https://twitter.com/DejanWebDev
