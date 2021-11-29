@@ -88,6 +88,7 @@ article p {
   font-weight: 700;
   color: var(--bright-blue);
   cursor: pointer;
+  text-decoration: underline;
 }
 .order a:hover {
   text-decoration: none;
